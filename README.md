@@ -22,5 +22,4 @@ Basado en el procesamiento de textos y fuentes documentales en NotebookLM:
 ## 🎯 Conclusión
 El objetivo de este proyecto es demostrar que los datos, usados con ética y rigor, son la herramienta más poderosa para mejorar el bienestar común y hacer "visible lo invisible".
 
----
-*Análisis generado con el apoyo de Google NotebookLM.*
+
